@@ -1,0 +1,50 @@
+h2{
+    font-size: 2rem;
+    margin-left: 3%;
+    padding-top: 5%;
+}
+
+.para1{
+    margin: 5%;
+    font-size: large;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    border-left: solid 5px #5DADE2 ;
+    padding: 4%;
+    margin-left: 14%;
+  
+}
+
+@media only screen and (max-width: 1300px) {
+    .para1{
+        margin-left: 14%;
+
+    }
+ }
+
+ @media only screen and (max-width: 1000px){
+    .info{
+        display:flex;
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .img1{
+        display: flex;
+        justify-content: center;
+        width: 15rem;
+
+    }
+
+    .para1{
+        border-left: none;
+        
+    }
+
+    h2{
+        font-size: 1.5rem;
+    }
+    
+ }
+

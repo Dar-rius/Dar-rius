@@ -1,0 +1,72 @@
+h3{
+    font-size: 2rem;
+    margin-left: 3%;
+    margin-bottom: 5%;
+    padding-top: 5%;
+
+}
+
+.dis{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 10%;
+}
+
+.lang{
+    font-size: 1.4rem;
+}
+
+.frame{
+    font-size: 1.4rem;
+}
+
+.shies{
+    font-size: 1.1rem;
+
+}
+
+.shies1{
+    font-size: 1.1rem;
+}
+
+.croix{
+    color: #2ECC71;
+}
+
+.form {
+    margin: 8%;
+
+}
+
+.form1{
+    border-left: solid 5px #5DADE2 ;
+    margin: 8%;
+    padding-left: 10%;
+}
+
+.form2{
+    border-left: solid 5px #5DADE2 ;
+    margin: 8%;
+    padding-left: 10%;
+}
+
+@media screen and (max-width:1066px){
+    .form2{
+        border-left: none;
+    }
+}
+
+@media screen and (max-width:1000px){
+    h3{
+        font-size: 1.5rem;
+    }
+
+}
+
+@media screen and (max-width:392px) {
+    .form1{
+        border-left: none;
+    }
+
+}
