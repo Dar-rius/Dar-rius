@@ -21,9 +21,8 @@ const Projet = ()=>{
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Yoda Bot</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python, Discord py</Card.Subtitle>
                         <Card.Text>
-                            Un bot discord qui a pour objectif d'apprendre aux membres d'un
-                            serveur discord l'informatique patrticulierement, le developpemet web,
-                            mobile et le design.
+                        Un bot discord qui a pour objectif d'apprendre aux membres d'un serveur discord l'informatique
+                         particulièrement, le développement web, mobile et le design.
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -47,9 +46,8 @@ const Projet = ()=>{
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>UCAO app</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>React native</Card.Subtitle>
                         <Card.Text>
-                            Une application mobile dont le but est de remplacer les plateforms: classroom ,
-                            kairos et google meet par une appli qui regroupe toutes les fonctionnalités de
-                            ces derniers.
+                        Une application mobile dont le but est de remplacer les plateformes: classroom , kairos et google 
+                        meet par une appli qui regroupe toutes les fonctionnalités de ces derniers.
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -63,7 +61,7 @@ const Projet = ()=>{
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}} >HTML, CSS</Card.Subtitle>
                         <Card.Text>
                             Un site permettant de convertir une crypto monnaie en monnaie physique
-                            avec les valeurs de ses crypto en temps réelle.
+                            avec les valeurs de ses crypto en temps réel.
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -76,8 +74,7 @@ const Projet = ()=>{
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>AI Titanic</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python, Numpy, Pandas, Scklearn, Matplotlib</Card.Subtitle>
                         <Card.Text>
-                            Un modele de machin learning qui a ete entrainer sur le dataset du titanic a fin de predir si une 
-                            personne au survecu au lofrage du titanic.
+                        Un modèle de machin learning qui a été entraîné sur le dataset du titanic afin de prédire si une personne a survécu au naufrage du titanic.
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -90,8 +87,7 @@ const Projet = ()=>{
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Analyze Corona</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python, Numpy, Pandas, Scklearn, Matplotlib, Seaborn, MlXtend</Card.Subtitle>
                         <Card.Text>
-                            Un modele de machin learning qui a ete entrainer sur le dataset du coronavirus de kaggle 
-                            a fin de predir si une personne est positif au coronavirus
+                        Un modèle de machin learning qui a été entrainer sur le dataset du coronavirus de kaggle afin de prédire si une personne est positif au coronavirus
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -104,9 +100,8 @@ const Projet = ()=>{
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Analyze School</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python, Numpy, Pandas, Matplotlib, Seaborn</Card.Subtitle>
                         <Card.Text>
-                            Un algorithm qui utilise toutes les donnees des etudiants pour ensuites les enregistres dans un tableau
-                            et va ensuite visualiser les donnees en presentant le rang des etudiant selon leur moyenne, le nombre
-                             des meilleurs etudiants , les tranches tranches d'ages qui existe au sein de l'etablissement.
+                        Un algorithme utilise toutes les données des étudiants pour ensuite les enregistrer dans un tableau                             
+                        et va ensuite visualiser les données en présentant le rang des étudiant selon leur moyenne, le nombre des meilleurs étudiants , les tranches tranches d'âges qui existent au sein de l'établissement.
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -119,8 +114,7 @@ const Projet = ()=>{
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Host</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>HTML, CSS, Jquery mobile</Card.Subtitle>
                         <Card.Text>
-                            Une application mobile de guide sur tous les hopitaux et cliniques des differents departements 
-                            departements de Dakar 
+                        Une application mobile de guide sur tous les hôpitaux et cliniques des différents départements de Dakar.
                         </Card.Text>
                     </Card.Body>
                 </Card>
