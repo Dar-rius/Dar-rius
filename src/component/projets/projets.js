@@ -22,10 +22,9 @@ const Projet = ()=>{
                             </a>
                         </div>
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Digits</Card.Title>
-                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python Tensorflow Sklearn Numpy</Card.Subtitle>
+                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python Tensorflow SKlearn Numpy</Card.Subtitle>
                         <Card.Text>
-                        Un bot discord qui a pour objectif d'apprendre aux membres d'un serveur discord l'informatique
-                         particulièrement, le développement web, mobile et le design.
+                        un reseau de neurone capable de reconnaitre un chiffre qui est visualiser sur une image en 2D 
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -44,7 +43,7 @@ const Projet = ()=>{
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>React Js</Card.Subtitle>
                         <Card.Text>
                             Un jeu dont l'objectif est d'arriver a deviné le nombre que le machine
-                            donnera. vous êtes 4 joueurs et chacun a une certaine somme d'argent.
+                            donnera, il y a 4 participants et chacun a une certaine somme d'argent.
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -55,10 +54,9 @@ const Projet = ()=>{
                                 <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                             </a>
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Population Analyze</Card.Title>
-                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python Sklearn Pandas Numpy Matplotlib</Card.Subtitle>
+                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python SKlearn Pandas Numpy Matplotlib</Card.Subtitle>
                         <Card.Text>
-                        Une application mobile dont le but est de remplacer les plateformes: classroom , kairos et google 
-                        meet par une appli qui regroupe toutes les fonctionnalités de ces derniers.
+                        Ce projet consiste a analyser la croissance de la population humaine depuis 1950 a 2100 et dans differents pays.
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -69,10 +67,9 @@ const Projet = ()=>{
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                         </a>
                         <Card.Title style={{fontWeight:'bold',marginBottom:'10%', fontSize:"140%"}}>Binance</Card.Title>
-                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}} >Python Sklearn Pandas Numpy Matplotlib</Card.Subtitle>
+                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}} >Python SKlearn Pandas Numpy Matplotlib</Card.Subtitle>
                         <Card.Text>
-                            Un site permettant de convertir une crypto monnaie en monnaie physique
-                            avec les valeurs de ses crypto en temps réel.
+                            Un modele de machine learning qui a ete entrainer pour predire le prix final de la crypto de binance (BNB).
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -83,9 +80,9 @@ const Projet = ()=>{
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                         </a>
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Titanic</Card.Title>
-                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python, Numpy, Pandas, Scklearn, Matplotlib</Card.Subtitle>
+                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python, Numpy, Pandas, SKlearn, Matplotlib</Card.Subtitle>
                         <Card.Text>
-                        Un modèle de machin learning qui a été entraîné sur le dataset du titanic afin de prédire si une personne a survécu au naufrage du titanic.
+                        Un modele de machine learning qui a été entraîné sur le dataset du titanic afin de prédire si une personne a survécu au naufrage du titanic.
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -96,9 +93,9 @@ const Projet = ()=>{
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                         </a>
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Analyze Corona</Card.Title>
-                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python, Numpy, Pandas, Scklearn, Matplotlib, Seaborn, MlXtend</Card.Subtitle>
+                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python, Numpy, Pandas, SKlearn, Matplotlib, Seaborn, MlXtend</Card.Subtitle>
                         <Card.Text>
-                        Un modèle de machin learning qui a été entrainer sur le dataset du coronavirus de kaggle afin de prédire si une personne est positif au coronavirus
+                        Un modèle de machin learning qui a apris a reconnaitre une personne qui est positif au coronavirus
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -111,8 +108,7 @@ const Projet = ()=>{
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Computer vision</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python face-recognition DLib OpenCV</Card.Subtitle>
                         <Card.Text>
-                        Un algorithme utilise toutes les données des étudiants pour ensuite les enregistrer dans un tableau                             
-                        et va ensuite visualiser les données en présentant le rang des étudiant selon leur moyenne, le nombre des meilleurs étudiants , les tranches tranches d'âges qui existent au sein de l'établissement.
+                        Un modele preentrainner pour reconnaitre le visage des differentes personnes contenu dans sa base de donnees
                         </Card.Text>
                     </Card.Body>
                 </Card>
