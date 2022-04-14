@@ -10,16 +10,11 @@ const About =()=>{
                 <h2>/A propos:</h2>
                 <div className="info">
                     <p className="para1">
-                    Actuellement étudiant en informatique à l'université UCAO saint michel et passionné <br/>
-                    avec d'énormes intérêts dans le milieu du développement web et l'intelligence artificielle.<br/><br/> <br/> 
-                    Je suis une personne très autodidacte, grâce à ma curiosité et ma soif de progresser pour toujours aller plus loin, 
-                    j'ai acquis de nombreuses compétences personnelle, ces com Actuellement étudiant en informatique à l'université UCAO 
-                    saint michel et passionné <br/>avec d'énormes intérêts dans le milieu du développement web et l'intelligence 
-                    artificielle.<br/><br/> <br/> Je suis une personne très autodidacte, grâce à ma curiosité et ma soif de progresser 
-                    pour toujours aller plus loin, j'ai acquis de nombreuses compétences personnelle, ces compétences comprennent la 
-                    programmation avec python, Java et le JavaScript, mais aussi le développement web avec HTML5/CSS3 et les frameworks 
-                    JavaScript.pétences comprennent la programmation avec python, Java et le JavaScript, mais aussi le développement web 
-                    avec HTML5/CSS3 et les frameworks JavaScript.
+                    Je suis un étudiant en informatique mais j'ai de bonnes connaissances en developpement web et en Python. <br/> <br/>
+                    Je maîtrise les technologies comme HTML5/CSS3 , JavaScript, Python et java, mais également avec les outils permettant 
+                    de developper des modèles de machine learning avec des outils comme Scikit-learn et Tensoflow.<br/> <br/>
+                    Je maitrise les frameworks JavaScript pour le développement web tels que: React , Angular, Ionic, aussi avec nodeJs. 
+                    Je suis très autodidacte, et j'aime travailler en équipe où je peux mettre en œuvre toutes mes compétences.
                     </p>
                 </div>
             </div>
