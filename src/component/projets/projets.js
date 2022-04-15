@@ -12,9 +12,9 @@ const Projet = ()=>{
     //boxShadow: '10px 5px 5px #85929E'
     return(
         <div id="/projets" data-aos="fade-down">
-            <h4>/Projets</h4>
+            <h4>/ Projects</h4>
             <div className="card" >
-                <Card style={{ width: '18rem', border: '1px solid #34495E ', background:'#1C2833'  }} className="carte">
+                <Card style={{ width: '18rem', border: '1px solid #34495E ', background:'#233554'  }} className="carte">
                     <Card.Body>
                         <div className='git'>
                             <a href="https://github.com/Dar-rius/digits" target='_blank'>
@@ -29,7 +29,7 @@ const Projet = ()=>{
                     </Card.Body>
                 </Card>
 
-                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#1C2833'  }} className="carte">
+                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
                         <div className='git'>
                             <a href="https://github.com/Dar-rius/casino" target='_blank'>
@@ -48,7 +48,7 @@ const Projet = ()=>{
                     </Card.Body>
                 </Card>
 
-                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#1C2833'  }} className="carte">
+                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
                             <a href="https://github.com/Dar-rius/PopulationAnalyze" target='_blank'>
                                 <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
@@ -61,7 +61,7 @@ const Projet = ()=>{
                     </Card.Body>
                 </Card>
 
-                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#1C2833'  }} className="carte">
+                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
                         <a href="https://github.com/Dar-rius/binance" className='git'>
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
@@ -74,7 +74,7 @@ const Projet = ()=>{
                     </Card.Body>
                 </Card>
 
-                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#1C2833'  }} className="carte">
+                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
                         <a href="https://github.com/Dar-rius/new_titanic" className='git'>
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
@@ -87,7 +87,7 @@ const Projet = ()=>{
                     </Card.Body>
                 </Card>
 
-                <Card style={{ width: '18rem', border: '1px solid #34495E ', background:'#1C2833'  }} className="carte">
+                <Card style={{ width: '18rem', border: '1px solid #34495E ', background:'#233554'  }} className="carte">
                     <Card.Body>
                         <a href="https://github.com/Dar-rius/Analyse_corona" className='git'>
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
@@ -100,7 +100,7 @@ const Projet = ()=>{
                     </Card.Body>
                 </Card>
 
-                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#1C2833'  }} className="carte">
+                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
                         <a href="https://github.com/Dar-rius/ComputerVision" className='git'>
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
@@ -113,7 +113,7 @@ const Projet = ()=>{
                     </Card.Body>
                 </Card>
 
-                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#1C2833'  }} className="carte">
+                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Host</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>React Native</Card.Subtitle>

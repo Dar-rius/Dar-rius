@@ -15,23 +15,23 @@ const Home =()=>{
         <div className="debut" >
                  <div className="opt">
                     <div className="choix">
-                        <a href="/" style={{color:"#5DADE2", textDecoration:"none"}}>
+                        <a href="/" style={{color:"#64ffda", textDecoration:"none"}}>
                             /Home
                         </a>
                     </div>
                     <div className="choix1">
-                        <a href="#/about" style={{color:"#5DADE2", textDecoration:"none"}}>
+                        <a href="#/about" style={{color:"#64ffda", textDecoration:"none"}}>
                             /About
                         </a>
                     </div>
                     <div className="choix2">
-                        <a href="#/competence" style={{color:"#5DADE2", textDecoration:"none"}}>
-                            /Competences
+                        <a href="#/competence" style={{color:"#64ffda", textDecoration:"none"}}>
+                            /Experience
                         </a>
                     </div>
                     <div className="choix3">
-                        <a href="#/projets" style={{color:"#5DADE2", textDecoration:"none"}}>
-                            /Projets
+                        <a href="#/projets" style={{color:"#64ffda", textDecoration:"none"}}>
+                            /Projects
                         </a>
                     </div>
                 </div>
@@ -39,9 +39,12 @@ const Home =()=>{
                     <img src={saly} alt="saly" className="Saly" />
                     <div className="h1">
                         <h1>
-                            Hi 👋, I'm Mohamed. <br/>
-                            <TypeIt><span className="para"> Je suis un software engineer <br/>, pationne par l'IA et l'interaction  <br/>entre l'homme et la machine</span> 
-                        </TypeIt>
+                            <TypeIt options={{speed:125}}>
+                            Hi 👋, I'm <span style={{color:'#58D68D'}}>Mohamed</span>.
+                            </TypeIt>
+                            <div>
+                                <span className="para"> I'm software engineer in Dakar. <br/> I am very interested in full-stack development, <br/> artificial intelligence and everything related to <br/>technology.</span> 
+                            </div>
                             <a href="https://github.com/Dar-rius">
                                 <GitHubIcon style={{fontSize:22, margin:2, color:"white"}}/>
                             </a>

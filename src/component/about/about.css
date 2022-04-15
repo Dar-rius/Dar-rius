@@ -1,18 +1,19 @@
 h2{
     font-size: 2rem;
-    margin-left: 3%;
+    margin-left: 4%;
     padding-top: 5%;
+    color: #58D68D;
 }
 
 .para1{
     margin: 5%;
+    margin-top: -1%;
     font-size: large;
     letter-spacing: 2px;
     word-spacing: 4px;
-    border-left: solid 5px #5DADE2 ;
+    border-left: solid 5px #64ffda ;
     padding: 4%;
     margin-left: 14%;
-  
 }
 
 @media only screen and (max-width: 1300px) {
@@ -47,4 +48,5 @@ h2{
     }
     
  }
+
 
