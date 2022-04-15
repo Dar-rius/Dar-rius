@@ -91,6 +91,13 @@
     text-align: center;
 }
 
+@media only screen and (max-width: 1200px) {
+    .Saly{
+        max-width: 37em;
+    }
+    
+ }
+
 @media only screen and (max-width: 1150px) {
     .me{
         margin-top: 10%;

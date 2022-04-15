@@ -23,19 +23,18 @@ h2{
     }
  }
 
- @media only screen and (max-width: 1000px){
-    .info{
-        display:flex;
-        flex-wrap: wrap;
-        text-align: center;
-        justify-content: center;
-    }
+ @media only screen and (max-width: 900px){
+     .info{
+        margin: auto;
 
-    .img1{
-        display: flex;
-        justify-content: center;
-        width: 15rem;
+     }
 
+     .parat{
+         text-align: center;
+     }
+    
+    .compe{
+     justify-content: center;
     }
 
     .para1{
@@ -49,4 +48,14 @@ h2{
     
  }
 
+ @media only screen and (max-width: 440px){
 
+
+    .langage{
+        border-bottom: solid 5px #64ffda ;
+    }
+
+    .techno{
+        margin-top:2% ;
+    }
+ }

@@ -11,7 +11,7 @@ const Exp =()=>{
                     <h3>Freelance as a Full-Stack developer</h3>
                     <p className='date'>May 2021 - currently</p>
                     <p>
-                        Develop websites and mobile applications for clients
+                        Develop websites and mobile applications for clients.
                     </p>
                 </div>
 

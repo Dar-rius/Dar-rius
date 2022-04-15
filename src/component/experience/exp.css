@@ -65,39 +65,10 @@ h3{
     color: #28B463;
 }
 
-.form {
-    margin: 8%;
-
-}
-
-.form1{
-    border-left: solid 5px #212F3D ;
-    margin: 8%;
-    padding-left: 10%;
-}
-
-.form2{
-    border-left: solid 5px #212F3D ;
-    margin: 8%;
-    padding-left: 10%;
-}
-
-@media screen and (max-width:1066px){
-    .form2{
+@media screen and (max-width:900px){
+    .para2{
         border-left: none;
+        text-align: center;
+        margin: auto;
     }
-}
-
-@media screen and (max-width:1000px){
-    h3{
-        font-size: 1.5rem;
-    }
-
-}
-
-@media screen and (max-width:392px) {
-    .form1{
-        border-left: none;
-    }
-
 }
