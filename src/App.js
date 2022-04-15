@@ -11,6 +11,11 @@ function App() {
       <About/>
       <Exp/>
       <Projet/>
+      <br/><a href="mailto:mohamedtine17@gmail.com">
+      <div className='link'>
+        Contact me 
+      </div>
+      </a>
       <footer>Coding by Mohamed</footer>
     </div>
 

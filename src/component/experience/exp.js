@@ -17,7 +17,7 @@ const Exp =()=>{
 
                 <div className="para2">
                     <h3>Full-Stack developer at BuurGroup</h3>
-                    <p className='date'> September 2022 - March 2022</p>
+                    <p className='date'> September 2021 - March 2022</p>
                     <p>
                         Develop web and mobile platforms for west africa in order 
                         to facilitate investment by individuals in companies located in 

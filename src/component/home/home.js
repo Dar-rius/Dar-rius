@@ -46,13 +46,13 @@ const Home =()=>{
                                 <span className="para"> I'm software engineer in Dakar. <br/> I am very interested in full-stack development, <br/> artificial intelligence and everything related to technology.</span> 
                             </div>
                             <a href="https://github.com/Dar-rius">
-                                <GitHubIcon style={{fontSize:22, margin:2, color:"white"}}/>
+                                <GitHubIcon style={{fontSize:30, margin:2, color:"white"}}/>
                             </a>
                             <a href="https://www.linkedin.com/in/mohamed-tine-515950214/">
-                                <LinkedInIcon style={{fontSize:22, margin:2, color:"white"}}/>
+                                <LinkedInIcon style={{fontSize:30, margin:2, color:"white"}}/>
                             </a>
                             <a href="mailto:mohamedtine17@gmail.com">
-                                <EmailRoundedIcon style={{fontSize:22, margin:2, color:"white"}}/>
+                                <EmailRoundedIcon style={{fontSize:30, margin:2, color:"white"}}/>
                             </a>
                         </h1>
                     </div>

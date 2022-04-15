@@ -24,7 +24,7 @@ const Projet = ()=>{
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Digits</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python Tensorflow SKlearn Numpy</Card.Subtitle>
                         <Card.Text>
-                        un reseau de neurone capable de reconnaitre un chiffre qui est visualiser sur une image en 2D 
+                            a neural network capable of recognizing a number which is displayed on a 2D image 
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -42,47 +42,40 @@ const Projet = ()=>{
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Casino</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>React Js</Card.Subtitle>
                         <Card.Text>
-                            Un jeu dont l'objectif est d'arriver a deviné le nombre que le machine
-                            donnera, il y a 4 participants et chacun a une certaine somme d'argent.
+                            You are 4 players and your objective is to find the number that the machine will spawn in order to win all the loot that the other players have bet.
                         </Card.Text>
                     </Card.Body>
                 </Card>
 
                 <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
+                        <div className='git'>
                             <a href="https://github.com/Dar-rius/PopulationAnalyze" target='_blank'>
                                 <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                             </a>
-                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Population Analyze</Card.Title>
+                        </div>
+                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Population Analyzis</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python SKlearn Pandas Numpy Matplotlib</Card.Subtitle>
                         <Card.Text>
-                        Ce projet consiste a analyser la croissance de la population humaine depuis 1950 a 2100 et dans differents pays.
+                        Analyze population growth from the 1950s to 2100 to train a machine learning model that can predict the number of people on earth in years greater than 2100.
                         </Card.Text>
                     </Card.Body>
                 </Card>
 
                 <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
-                        <a href="https://github.com/Dar-rius/binance" className='git'>
-                            <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
-                        </a>
-                        <Card.Title style={{fontWeight:'bold',marginBottom:'10%', fontSize:"140%"}}>Binance</Card.Title>
-                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}} >Python SKlearn Pandas Numpy Matplotlib</Card.Subtitle>
+                        <div className='git'>
+                            <a href="https://github.com/freelansDev/stateProjects" className='git'>
+                                <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
+                            </a>
+                            <a href="" target='_blank'>
+                                    <IosShareIcon style={{fontSize:27, margin:1, color:"white"}}/>
+                            </a>
+                        </div>
+                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>State Project</Card.Title>
+                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python(Django) HTML/CSS</Card.Subtitle>
                         <Card.Text>
-                            Un modele de machine learning qui a ete entrainer pour predire le prix final de la crypto de binance (BNB).
-                        </Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
-                    <Card.Body>
-                        <a href="https://github.com/Dar-rius/new_titanic" className='git'>
-                            <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
-                        </a>
-                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Titanic</Card.Title>
-                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python, Numpy, Pandas, SKlearn, Matplotlib</Card.Subtitle>
-                        <Card.Text>
-                        Un modele de machine learning qui a été entraîné sur le dataset du titanic afin de prédire si une personne a survécu au naufrage du titanic.
+                        A site allowing customers to view the progress of their site or application under development.
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -92,33 +85,23 @@ const Projet = ()=>{
                         <a href="https://github.com/Dar-rius/Analyse_corona" className='git'>
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                         </a>
-                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Analyze Corona</Card.Title>
+                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Corona Analyzis</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python, Numpy, Pandas, SKlearn, Matplotlib, Seaborn, MlXtend</Card.Subtitle>
                         <Card.Text>
-                        Un modèle de machin learning qui a apris a reconnaitre une personne qui est positif au coronavirus
+                        A machine model that has been trained to identify people with corona
                         </Card.Text>
                     </Card.Body>
                 </Card>
 
                 <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
-                        <a href="https://github.com/Dar-rius/ComputerVision" className='git'>
+                        <a href="https://github.com/Dar-rius/Host-V2" className='git'>
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                         </a>
-                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Computer vision</Card.Title>
-                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python face-recognition DLib OpenCV</Card.Subtitle>
-                        <Card.Text>
-                        Un modele preentrainner pour reconnaitre le visage des differentes personnes contenu dans sa base de donnees
-                        </Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
-                    <Card.Body>
-                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Host</Card.Title>
+                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Hosto</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>React Native</Card.Subtitle>
                         <Card.Text>
-                        Une application mobile de guide sur tous les hôpitaux et cliniques des différents départements de Dakar.
+                        A mobile guide application on all the hospitals and clinics of the different departments of Dakar.
                         </Card.Text>
                     </Card.Body>
                 </Card>
