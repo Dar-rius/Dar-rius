@@ -24,7 +24,7 @@ const Projet = ()=>{
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Digits</Card.Title>
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python Tensorflow SKlearn Numpy</Card.Subtitle>
                         <Card.Text>
-                            a neural network capable of recognizing a number which is displayed on a 2D image 
+                             a neural network capable of recognizing a number which is displayed on a 2D image 
                         </Card.Text>
                     </Card.Body>
                 </Card>
