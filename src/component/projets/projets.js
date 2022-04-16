@@ -82,7 +82,7 @@ const Projet = ()=>{
 
                 <Card style={{ width: '18rem', border: '1px solid #34495E ', background:'#233554'  }} className="carte">
                     <Card.Body>
-                        <a href="https://github.com/Dar-rius/Analyse_corona" target='_blank'>
+                        <a href="https://github.com/Dar-rius/Analyse_corona" target='_blank' className='git'>
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                         </a>
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Corona Analyzis</Card.Title>
@@ -93,9 +93,9 @@ const Projet = ()=>{
                     </Card.Body>
                 </Card>
 
-                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
+                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554' }} className="carte">
                     <Card.Body>
-                        <a href="https://github.com/Dar-rius/Host-V2" target='_blank'>
+                        <a href="https://github.com/Dar-rius/Host-V2" target='_blank' className='git'>
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                         </a>
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Hosto</Card.Title>
