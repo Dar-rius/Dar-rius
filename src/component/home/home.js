@@ -15,7 +15,7 @@ const Home =()=>{
         <div className="debut" >
                  <div className="opt">
                     <div className="choix">
-                        <a href="/" style={{color:"#64ffda", textDecoration:"none"}}>
+                        <a href="#/home" style={{color:"#64ffda", textDecoration:"none"}}>
                             /Home
                         </a>
                     </div>
@@ -35,7 +35,7 @@ const Home =()=>{
                         </a>
                     </div>
                 </div>
-                <div className="me" data-aos="zoom-in">
+                <div className="me" data-aos="zoom-in" id="/home">
                     <img src={saly} alt="saly" className="Saly" />
                     <div className="h1">
                         <h1>
