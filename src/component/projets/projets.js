@@ -12,7 +12,7 @@ const Projet = ()=>{
     //boxShadow: '10px 5px 5px #85929E'
     return(
         <div id="/projets" data-aos="fade-down">
-            <h4>/ Projects</h4>
+            <h2>/ Projects</h2>
             <div className="card" >
                 <Card style={{ width: '18rem', border: '1px solid #34495E ', background:'#233554'  }} className="carte">
                     <Card.Body>
@@ -65,7 +65,7 @@ const Projet = ()=>{
                 <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
                         <div className='git'>
-                            <a href="https://github.com/freelansDev/stateProjects" className='git'>
+                            <a href="https://github.com/freelansDev/stateProjects" target='_blank'>
                                 <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                             </a>
                             <a href="" target='_blank'>
@@ -82,7 +82,7 @@ const Projet = ()=>{
 
                 <Card style={{ width: '18rem', border: '1px solid #34495E ', background:'#233554'  }} className="carte">
                     <Card.Body>
-                        <a href="https://github.com/Dar-rius/Analyse_corona" className='git'>
+                        <a href="https://github.com/Dar-rius/Analyse_corona" target='_blank'>
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                         </a>
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Corona Analyzis</Card.Title>
@@ -95,7 +95,7 @@ const Projet = ()=>{
 
                 <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
-                        <a href="https://github.com/Dar-rius/Host-V2" className='git'>
+                        <a href="https://github.com/Dar-rius/Host-V2" target='_blank'>
                             <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                         </a>
                         <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Hosto</Card.Title>

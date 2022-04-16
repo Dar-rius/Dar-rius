@@ -2,12 +2,6 @@
     --lightest-navy: #233554;
 }
 
-h4{
-    font-size: 2rem;
-    margin-left: 3%;
-    color: #58D68D;
-}
-
 .card{
     margin-top: -1%;
     display: flex;
