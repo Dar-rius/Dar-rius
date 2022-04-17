@@ -45,13 +45,13 @@ const Home =()=>{
                             <div>
                                 <span className="para"> I’m a software engineer based in Dakar.<br/> I am very interested in full-stack development, <br/> Artificial Intelligence, everything related to technology.</span> 
                             </div>
-                            <a href="https://github.com/Dar-rius">
+                            <a href="https://github.com/Dar-rius" target='_blank'>
                                 <GitHubIcon style={{fontSize:30, margin:2, color:"white"}}/>
                             </a>
-                            <a href="https://www.linkedin.com/in/mohamed-tine-515950214/">
+                            <a href="https://www.linkedin.com/in/mohamed-tine-515950214/" target='_blank'>
                                 <LinkedInIcon style={{fontSize:30, margin:2, color:"white"}}/>
                             </a>
-                            <a href="mailto:mohamedtine17@gmail.com">
+                            <a href="mailto:mohamedtine17@gmail.com" target='_blank'>
                                 <EmailRoundedIcon style={{fontSize:30, margin:2, color:"white"}}/>
                             </a>
                         </h1>
