@@ -43,7 +43,7 @@ const Home =()=>{
                             Hi 👋, I'm <span style={{color:'#58D68D'}}>Mohamed</span>.
                             </TypeIt>
                             <div>
-                                <span className="para"> I'm software engineer in Dakar. <br/> I am very interested in full-stack development, <br/> artificial intelligence and everything related to technology.</span> 
+                                <span className="para"> I’m a software engineer based in Dakar.<br/> I am very interested in full-stack development, <br/> Artificial Intelligence, everything related to technology.</span> 
                             </div>
                             <a href="https://github.com/Dar-rius">
                                 <GitHubIcon style={{fontSize:30, margin:2, color:"white"}}/>

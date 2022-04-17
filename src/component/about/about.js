@@ -10,8 +10,8 @@ const About =()=>{
                 <h2>/ About</h2>
                 <div className="info">
                     <div className="para1">
-                    <p className='parat'>I am currently studying computer management at UCAO but I have good knowledge
-                    in development in the design of website, web and mobile application. <br/><br/>
+                    <p className='parat'>I am currently studying management computing at Ucao. Nevertheless, 
+                    I have good knowledge in both web and app development.<br/><br/>
                     I use many technologies: <br/><br/></p>
 
                     <div style={{display:'flex', flexWrap:'wrap'}} className='compe'>
