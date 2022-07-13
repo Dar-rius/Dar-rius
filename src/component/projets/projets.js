@@ -14,17 +14,22 @@ const Projet = ()=>{
         <div id="/projets" data-aos="fade-down">
             <h2>/ Projects</h2>
             <div className="card" >
-                <Card style={{ width: '18rem', border: '1px solid #34495E ', background:'#233554'  }} className="carte">
+
+                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
                         <div className='git'>
-                            <a href="https://github.com/Dar-rius/digits" target='_blank'>
+                            <a href="https://github.com/Dar-rius/Wolof_IA" target='_blank'>
                                 <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                             </a>
+                            <a href="https://wolofia.herokuapp.com/message_wolof/home/" target='_blank'>
+                                    <IosShareIcon style={{fontSize:27, margin:1, color:"white"}}/>
+                            </a>
                         </div>
-                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Digits</Card.Title>
-                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python Tensorflow SKlearn Numpy</Card.Subtitle>
+                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Wolof IA</Card.Title>
+                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python(Django, SKlearn, Pandas, Numpy) HTML/CSS</Card.Subtitle>
                         <Card.Text>
-                             a neural network capable of recognizing a number which is displayed on a 2D image 
+                        A web app to train machine learning models to understand messages in the Wolof language in order to categorize them thanks 
+                        to the labeling messages entered by visitors in the application.
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -47,17 +52,30 @@ const Projet = ()=>{
                     </Card.Body>
                 </Card>
 
-                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
+                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554' }} className="carte">
+                    <Card.Body>
+                        <a href="https://github.com/Dar-rius/Host-V2" target='_blank' className='git'>
+                            <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
+                        </a>
+                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Hosto</Card.Title>
+                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>React Native</Card.Subtitle>
+                        <Card.Text>
+                        A mobile guide application on all the hospitals and clinics of the different departments of Dakar.
+                        </Card.Text>
+                    </Card.Body>
+                </Card>
+
+                <Card style={{ width: '18rem', border: '1px solid #34495E ', background:'#233554'  }} className="carte">
                     <Card.Body>
                         <div className='git'>
-                            <a href="https://github.com/Dar-rius/PopulationAnalyze" target='_blank'>
+                            <a href="https://github.com/Dar-rius/digits" target='_blank'>
                                 <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                             </a>
                         </div>
-                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Population Analyzis</Card.Title>
-                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python SKlearn Pandas Numpy Matplotlib</Card.Subtitle>
+                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Digits</Card.Title>
+                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python Tensorflow SKlearn Numpy</Card.Subtitle>
                         <Card.Text>
-                        Analyze population growth from the 1950s to 2100 to train a machine learning model that can predict the number of people on earth in years greater than 2100.
+                             a neural network capable of recognizing a number which is displayed on a 2D image 
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -65,17 +83,14 @@ const Projet = ()=>{
                 <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554'  }} className="carte">
                     <Card.Body>
                         <div className='git'>
-                            <a href="https://github.com/freelansDev/stateProjects" target='_blank'>
+                            <a href="https://github.com/Dar-rius/tweet_analyzis" target='_blank'>
                                 <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
                             </a>
-                            <a href="" target='_blank'>
-                                    <IosShareIcon style={{fontSize:27, margin:1, color:"white"}}/>
-                            </a>
                         </div>
-                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>State Project</Card.Title>
-                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python(Django) HTML/CSS</Card.Subtitle>
+                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Tweet Analyzis</Card.Title>
+                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python SKlearn Pandas Numpy Matplotlib</Card.Subtitle>
                         <Card.Text>
-                        A site allowing customers to view the progress of their site or application under development.
+                            A machine learning model that predicts the emotion felt in a tweet for various tech products and services.
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -89,19 +104,6 @@ const Projet = ()=>{
                         <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>Python, Numpy, Pandas, SKlearn, Matplotlib, Seaborn, MlXtend</Card.Subtitle>
                         <Card.Text>
                         A machine model that has been trained to identify people with corona
-                        </Card.Text>
-                    </Card.Body>
-                </Card>
-
-                <Card style={{ width: '18rem', border: '1px solid #34495E', background:'#233554' }} className="carte">
-                    <Card.Body>
-                        <a href="https://github.com/Dar-rius/Host-V2" target='_blank' className='git'>
-                            <GitHubIcon style={{fontSize:27, margin:1, color:"white"}}/>
-                        </a>
-                        <Card.Title style={{fontWeight:'bold', marginBottom:'10%', fontSize:"140%"}}>Hosto</Card.Title>
-                        <Card.Subtitle style={{fontSize:'90%', color:'#2ECC71'}}>React Native</Card.Subtitle>
-                        <Card.Text>
-                        A mobile guide application on all the hospitals and clinics of the different departments of Dakar.
                         </Card.Text>
                     </Card.Body>
                 </Card>
