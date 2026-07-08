@@ -20,7 +20,7 @@ I build across the entire AI stack—from theoretical algorithm design to bare-m
 * **Software Engineering:** Python (Advanced/Typed), Go, System Architecture, Clean Code.
 
 ### 📬 Let's Connect
-Always open to discussing AI Infrastructure, Deep RL, and DeepTech entrepreneurship. 
+Always open to discussing ML, Scaling/Infrastructure, Deep RL, and DeepTech entrepreneurship. 
 
 [X](https://x.com/0xDar_rius)
 [Linkedin](https://www.linkedin.com/in/mohamed-tine-539770344/)
