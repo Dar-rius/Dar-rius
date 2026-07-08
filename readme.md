@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed 👋
+# Hi, I'm Dar-rius👋
 
 I am an independent **Research Engineer** based in Dakar, Senegal. With 6 years of background in software and systems engineering, I now focus on the intersection of **Deep Reinforcement Learning** and **Edge AI Infrastructure**. 
 
