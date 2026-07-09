@@ -1,19 +1,30 @@
-Dar-rius. Independent Research Engineer & Builder.
+# Dar-rius
 
-Background in systems engineering (6 YOE). Currently focused on Deep Reinforcement Learning (POMDPs, World Models) and Edge AI hardware.
+Independent Research Engineer.
 
-### Work
-* **PPO-Belief:** Researching and formalizing a model-based variant of PPO. By injecting a transition dynamics prediction head ($t \rightarrow t+1$), the agent learns to build an internal World Model to navigate extreme non-stationarity. *(Paper drafting in progress).
+I build machine learning systems from research to deployment.
+
+My work focuses on Deep Reinforcement Learning, model-based decision making, ML systems and Edge AI.
+
+## Current Work
+* **PPO-Belief:** Researching a model-based extension of Proximal Policy Optimization by introducing an auxiliary transition prediction objective. The goal is to learn latent representations that improve decision making under partially observable and non-stationary environments. *(Paper drafting in progress)*.
+  
 * **[Kairos](https://github.com/Dar-rius/Kairos):** Model-based RL architecture (PPO-Belief) predicting transition dynamics in chaotic financial environments. Built with PyTorch, WandB, Optuna. 
-* **Edge PaaS:** Self-hosted CI/CD infrastructure on NVIDIA Jetson Thor for automated mixed-precision training (AMP) and TensorRT deployment.
 
-### Stack
+* **Edge PaaS:** Building an end-to-end deployment pipeline for embedded AI.
 
-Python, Rust, PyTorch, Machine Learning, Graph Neural Network, Computer vision, POMDPs, World Models, TensorRT, Docker
+## Stack
 
-### Let's Connect
-Always open to discussing ML, Scaling/Infrastructure, Deep RL, and DeepTech. 
+Python • Rust • PyTorch • CUDA • TensorRT • Docker • Optuna • WandB • Deep Reinforcement Learning • ML Systems • Computer Vision
+
+## Writing
+
+I write about reinforcement learning, ML systems and Edge AI.
+
+[Substack](https://substack.com/@darrius01)
+
+## Contact 
 
 [X](https://x.com/0xDar_rius)
 [Linkedin](https://www.linkedin.com/in/mohamed-tine-539770344/)
-[Substack](https://substack.com/@darrius01)
+
