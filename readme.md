@@ -15,7 +15,7 @@ My work focuses on Deep Reinforcement Learning, model-based decision making, ML 
 
 ## Stack
 
-Python • Rust • PyTorch • CUDA • TensorRT • Docker • Deep Reinforcement Learning • ML Systems • Computer Vision
+Python • Rust • PyTorch • NVIDIA CUDA Ecosystem • TensorRT • Docker • Deep Reinforcement Learning • ML Systems • Computer Vision
 
 ## Writing
 
