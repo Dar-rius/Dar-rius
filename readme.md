@@ -11,7 +11,7 @@ My work focuses on Deep Reinforcement Learning, ML systems and Edge AI.
 
 ## Stack
 
-Python • Rust • PyTorch • NVIDIA CUDA Ecosystem • TensorRT • Docker • Deep Reinforcement Learning • ML Systems • Computer Vision
+Python • Rust • PyTorch • NVIDIA CUDA Ecosystem • Docker • Deep Reinforcement Learning • ML Systems
 
 ## Writing
 
