@@ -4,7 +4,7 @@ Independent Research Engineer.
 
 I build machine learning systems from research to deployment.
 
-My work focuses on Deep Reinforcement Learning, model-based decision making, ML systems and Edge AI.
+My work focuses on Deep Reinforcement Learning, ML systems and Edge AI.
 
 ## Current Work
 * **[PPO-Belief](https://github.com/Dar-rius/ppo_belief):** Researching a model-based extension of Proximal Policy Optimization by introducing an auxiliary transition prediction objective. The goal is to learn latent representations that improve decision making under partially observable and non-stationary environments. *(Paper drafting in progress)*.
