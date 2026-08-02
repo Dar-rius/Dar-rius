@@ -1,9 +1,5 @@
 # Dar-rius
 
-Independent Research Engineer.
-
-I build machine learning systems from research to deployment.
-
 My work focuses on Deep Reinforcement Learning, ML systems and Edge AI.
 
 ## Current Work
