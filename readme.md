@@ -5,9 +5,9 @@ My work focuses on Deep Reinforcement Learning, ML systems and Edge AI.
 ## Current Work
 * **[PPO-Belief](https://github.com/Dar-rius/ppo_belief):** Researching a model-based extension of Proximal Policy Optimization by introducing an auxiliary transition prediction objective. The goal is to learn latent representations that improve decision making under partially observable and non-stationary environments. *(Paper drafting in progress)*.
   
-* **[Kairos](https://github.com/Dar-rius/Kairos):** Model-based RL architecture (PPO-Belief) predicting transition dynamics in chaotic financial environments. Built with PyTorch, WandB, Optuna. 
+* **[Kairos](https://github.com/Dar-rius/Kairos):** Model-based RL architecture (PPO-Belief) predicting transition dynamics in chaotic financial environments. Built with PyTorch, WandB, Optuna. *(Paper drafting in progress)*. 
 
-* **Edge PaaS:** Building an end-to-end deployment pipeline for embedded AI.
+* **[zeroRL](https://github.com/Dar-rius/zeroRL):** A simple and transparent reinforcement learning library. No black boxes, no boilerplate, compilable torch.
 
 ## Stack
 
