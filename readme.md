@@ -1,3 +1,10 @@
+<div align="center"> 
+  <picture>
+    <img alt="my feeling" src="/me_true.jpg" width="100%" >
+  </picture>
+</div>
+
+---
 # Hi, I'm Mohamed 👋
 
 AI Research Engineer specializing in machine learning and reinforcement learning.
