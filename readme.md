@@ -26,7 +26,7 @@ I am interested in one central question:
 
 ## Research Interests
 
-Reinforcement Learning · machine learning · Autonomous Agents · Post-Training · AI Infrastructure · Partial Observability · Representation Learning
+Reinforcement Learning · Machine Learning · Autonomous Agents · Post-Training · AI Infrastructure · Partial Observability · Representation Learning
 
 ## Contact
 
