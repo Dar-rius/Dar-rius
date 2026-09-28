@@ -4,7 +4,6 @@
   </picture>
 </div>
 
----
 # Hi, I'm Mohamed 👋
 
 AI Research Engineer specializing in machine learning and reinforcement learning.
