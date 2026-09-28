@@ -22,7 +22,7 @@ I am interested in one central question:
   A research project studying a dual-system architecture inspired by System 1 / System 2, combined with a PPO variant using auxiliary predictive objectives, for decision-making in partially observable and noisy financial environments.
 
 - **[zeroRL](https://github.com/Dar-rius/zeroRL)**  
-  An open-source PyTorch reinforcement learning framework for building explicit, modular, and researcher-controlled training pipelines.
+  A reinforcement learning framework for building explicit, modular, and researcher-controlled training pipelines.
 
 ## Research Interests
 
