@@ -1,26 +1,28 @@
-# Dar-rius
+# Hi, I'm Mohamed 👋
 
-My work focuses on Deep Reinforcement Learning, ML systems and Edge AI.
+AI Research Engineer specializing in machine learning and reinforcement learning.
+
+I am interested in one central question:
+
+**How can we build autonomous AI systems that learn from experience by interacting with complex environments?**
 
 ## Current Work
-* **[PPO-Belief](https://github.com/Dar-rius/ppo_belief):** Researching a model-based extension of Proximal Policy Optimization by introducing an auxiliary transition prediction objective. The goal is to learn latent representations that improve decision making under partially observable and non-stationary environments. *(Paper drafting in progress)*.
-  
-* **[Kairos](https://github.com/Dar-rius/Kairos):** Model-based RL featuring a System 1 and System 2 architecture to predict transition dynamics in chaotic financial environments. Built with PyTorch, WandB, and Optuna. *(Paper drafting in progress)*. 
 
-* **[zeroRL](https://github.com/Dar-rius/zeroRL):** A simple and transparent reinforcement learning library. No black boxes, no boilerplate, compilable torch.
+- **[PPO-Belief](https://github.com/Dar-rius/ppo_belief)**  
+  A research project investigating whether an auxiliary transition-prediction objective — learning the difference between current and future observations — can influence PPO learning dynamics and performance in continuous-control tasks.  
+  *Research write-up in progress.*
 
-## Stack
+- **[Kairos](https://github.com/Dar-rius/Kairos)**  
+  A research project studying a dual-system architecture inspired by System 1 / System 2, combined with a PPO variant using auxiliary predictive objectives, for decision-making in partially observable and noisy financial environments.
 
-Python • Rust • PyTorch • NVIDIA CUDA Ecosystem • Docker • Deep Reinforcement Learning • ML Systems
+- **[zeroRL](https://github.com/Dar-rius/zeroRL)**  
+  An open-source PyTorch reinforcement learning framework for building explicit, modular, and researcher-controlled training pipelines.
 
-## Writing
+## Research Interests
 
-I write about reinforcement learning, ML systems and Edge AI.
+Reinforcement Learning · machine learning · Autonomous Agents · Post-Training · AI Infrastructure · Partial Observability · Representation Learning
 
-[Substack](https://substack.com/@darrius01)
+## Contact
 
-## Contact 
-
-[X](https://x.com/0xDar_rius)
-[Linkedin](https://www.linkedin.com/in/mohamed-tine-539770344/)
-
+- [X](https://x.com/0xDar_rius)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-tine-539770344/)
