@@ -10,7 +10,7 @@ AI Research Engineer specializing in machine learning and reinforcement learning
 
 I am interested in one central question:
 
-**How can we build autonomous AI systems that learn from experience by interacting with complex environments?**
+**How can we build autonomous AI systems that learn from experience by interacting with complex environments ?**
 
 ## Current Work
 
