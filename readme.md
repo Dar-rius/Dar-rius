@@ -15,7 +15,7 @@ I am interested in one central question:
 ## Current Work
 
 - **[PPO-Belief](https://github.com/Dar-rius/ppo_belief)**  
-  A research project investigating whether an auxiliary transition-prediction objective — learning the difference between current and future observations — can influence PPO learning dynamics and performance in continuous-control tasks.  
+  A research project investigating whether an auxiliary transition-prediction objective — learning the difference between current and future observations — can influence PPO learning dynamics and performance in control tasks.  
   *Research write-up in progress.*
 
 - **[Kairos](https://github.com/Dar-rius/Kairos)**  
